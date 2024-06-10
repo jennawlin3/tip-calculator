@@ -252,6 +252,14 @@ input[type="reset"]:disabled {
         width: 900px;
     }
 
+    input[type="button"] {
+        width: 30%;
+    }
+
+    #custom-percent {
+        width: 30%;
+    }
+
     .bill-data {
         width: 420px;
     }
